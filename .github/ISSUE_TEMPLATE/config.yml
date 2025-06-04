@@ -1,0 +1,18 @@
+blank_issues_enabled: false
+
+issue_templates:
+  - name: 👾 Reportar un Bug
+    description: Informá un error o comportamiento inesperado del sistema.
+    file: bug_report.md
+
+  - name: 🚀 Solicitud de funcionalidad
+    description: Proponé una nueva funcionalidad o mejora para el proyecto.
+    file: feature_request.md
+
+  - name: 🧑‍💼 User Story
+    description: Definí una funcionalidad desde el punto de vista del usuario final.
+    file: user_story.md
+
+  - name: 📘 Epic
+    description: Documentá una iniciativa grande que agrupa varias historias o tareas.
+    file: epic.md
